@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![James Acaster Brittish Bake Off Quote: Started Making It, Had a breakdown bon appetit](https://craigpryde.com/assets/images/github-profile-meme.gif)
+
 <!--
 **craigpryde/craigpryde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
