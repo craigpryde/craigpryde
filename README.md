@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-![James Acaster Brittish Bake Off Quote: Started Making It, Had a breakdown bon appetit](https://craigpryde.com/assets/images/github-profile-meme.gif)
+> Started making it. Had a break down. Bon appetite. - James Acaster (GBBO)
+
+Software engineer and accessibility advocate with a passion for inclusive design. I lead the team at Different Breed ® in vision and technology.
+
 
 <!--
 **craigpryde/craigpryde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
